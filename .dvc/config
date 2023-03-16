@@ -1,4 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = gdrive://1Gozj9mhS3FNeurNsJgdnKqvDR87E84ke
+    remote = myremote
+['remote "myremote"']
+    url = D:/Github/wafer-ml-dvc
