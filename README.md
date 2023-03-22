@@ -1,7 +1,7 @@
 wafer-ml
 ==============================
 
-wafer project using mlops
+wafer project using mlops.
 
 Project Organization
 ------------
